@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A living testimony from the power and spirit of our Lord Jesus Christ in our faithful womens meeting and Christian Socity [sic] given forth in the universal union, and approbation thereof, according to our several proportions of faith and life in the same spirit.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48759</idno>
+            <idno type="STC">Wing L2598A</idno>
+            <idno type="STC">ESTC R21315</idno>
+            <idno type="EEBO-CITATION">12406181</idno>
+            <idno type="OCLC">ocm 12406181</idno>
+            <idno type="VID">61391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 767:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A living testimony from the power and spirit of our Lord Jesus Christ in our faithful womens meeting and Christian Socity [sic] given forth in the universal union, and approbation thereof, according to our several proportions of faith and life in the same spirit.</title>
+                  <author>Forster, Mary, 1619?-1686.</author>
+                  <author>Society of Friends. London Yearly Meeting of Women Friends.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Signed by us, in the behalf of the rest of our sincere minded members of our meeting, London, from our Womens Meeting, gathered out of the city and suburbs, the 1st of the 4th moneth, 1685 -- Mary Forster" [and others]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  London.</term>
+               <term>Quaker women.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61391:1" rendition="simple:additions"/>
+            <head>A Living TESTIMONY From the Power and Spirit of our <hi>Lord Ieſus Chriſt</hi> in our Faithful <hi>Womens Meeting</hi> AND <hi>CHRISTIAN SOCITY.</hi> Given forth in the <g ref="char:V">Ʋ</g>niverſal <g ref="char:V">Ʋ</g>nion, and Approbation thereof, according to our ſeveral Proportions of Faith and Life, in the ſame Spirit.</head>
+            <p>THe Spirit of <hi>Grace</hi> having freely viſited all <hi>Mankind;</hi> the Lord hath had regard unto the low eſtate of his <hi>Servants</hi> and <hi>Handmaids,</hi> notwithſtanding the <hi>En<g ref="char:EOLhyphen"/>mity</hi> and <hi>Subtilty</hi> and <hi>ſecreet Smitings</hi> of that Spirit which ſeeks to <hi>Divide</hi> and lay <hi>Waſte</hi> the <hi>Heritage</hi> of God, whom he hath Quickned, and Raiſed up <hi>Heirs</hi> of Life together, in the <hi>Fellowſhip of</hi> the Goſpel of Peace, which ſtands in the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of that Spirit which gives <hi>Life;</hi> and our <hi>Life, Peace</hi> and <hi>Joy</hi> is increaſed in the Lord one toward another, where<g ref="char:EOLhyphen"/>by
+<pb n="2" facs="tcp:61391:2"/>we are made <hi>Living</hi> Members of that Body which Chriſt Jeſus our Lord is <hi>Head,</hi> Glory to our God forever.</p>
+            <p>And we being turned to the Spirit of <hi>Grace</hi> and <hi>Light</hi> of Chriſt do believe in the Light, and are become <hi>Children</hi> of his Light, of his Day, and ſo <hi>Members</hi> of his holy Body, of which Chriſt is the Living and Eternal heavenly Head; and by the Spirit of Grace we are come into Favour with God, and into the Order of his Goſpel, and are his <hi>Daughters, Ser<g ref="char:EOLhyphen"/>vants</hi> and <hi>Handmaids;</hi> and we have a Heavenly propriety in the <hi>Light, Power</hi> and <hi>Spirit</hi> of <hi>Grace,</hi> and the <hi>Goſpel,</hi> being <hi>Heirs</hi> of the ſame; ſo by Grace we are called into the Work and Service of God and Jeſus Chriſt, that they require of us in our Age and Generation, and we have our Wiſdom from the Lord Jeſus Chriſt, the Rock of Ages, and the Foundation of many Generations, who is made unto us Wiſdom; and he hath enlightned our Spirits, which is the Candle of the Lord, which his heavenly divine Light, which is the Life that is in Chriſt, the Word by which all things were made, that we might all ſee and know the Will of God, and do it, and know our ſeveral Works and Services the Lord requireth of us in his Church, we are not to put our Candles under a Buſhel, nor to hide our Talents in a Napkin, as the ſloathful do; but we are to have Oyl in our Lamps, like Wiſe Virgins to the Lord; and our Lamps are to burn, and our Lights are to ſhine, that we may all ſee clearly our Work and Service; namely, To help Fami<g ref="char:EOLhyphen"/>lies that are Poor, and have Children, and to ſee that they are diligent to improve things to the beſt; that they are not ſlothful in their buſineſs, no Waſters, and that they put their Children to ſome Imployment, as ſoon as they are capable; for the Truth hath a lively operation, it brings People to be diligent in all things, ſerving the Lord. For we which have been Mothers of Children, and Antient VVomen in
+<pb n="3" facs="tcp:61391:2"/>our Families, do know, in the VViſdom of God, what will do in Families, in Truth and Righteouſneſs, and according to the Families; and ſo are able, through the VViſdom of God, to inſtruct ſuch as want Inſtruction, and ſo are Helps to them in their Families: And as the Apoſtle ſaith, <hi>The Elder Women are to be Teachers of good things, and inſtruct and teach the Younger to be Sober, and love their Husbands and Children, and to be diſcreet, good and chaſte, that the Word of God be not blaſphemed.</hi>
+            </p>
+            <p>So here is a great charge and care lies upon theſe Aged Women in the Truth, who are to teach theſe good things, that the Younger be trained up in that which is good, ſober and diſcreet, chaſte and virtuous; ſo to be kept before they Marry, and after they are Married, ſober, and to love their Husbands, and Children, and bring them up in the fear of the Lord, that the Name of the Lord be not blaſphemed. Here we Aged Women in the Truth, have a Gift to be exerciſed in <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſuch a care lieth upon us, that the Church of Chriſt be not ſcandalized.</p>
+            <p>A<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we have a concern, as in <hi>Tit.</hi> 2. relating to Mar<g ref="char:EOLhyphen"/>riage, both before and after they are Marryed; and ſuch Elderly Women in the Truth, are to be intreated as Mo<g ref="char:EOLhyphen"/>thers, and ſo not to be Railed upon; and the Younger, as Siſters, with all Purity, and Widows, that are VVidows indeed, are to be honoured; and if they have Children or Nephews, let them learn firſt to ſhew Piety or Kindneſs at Home, and to requite their Parents and Kindred; for this is good and acceptable before God.</p>
+            <p>Now this is a good Leſſon for the VVidows, to inſtruct their Children and Nephews to Practice. And ſo we may ſee ſuch holy VVomen, that were taken into the Number and Society in that day, were to be well reported for good
+<pb n="4" facs="tcp:61391:3"/>Works, <hi>Lodging Strangers,</hi> and <hi>Relieving the Afflicted,</hi> and if ſhe have diligently followed every good VVork; theſe were of the Number of <hi>good Women,</hi> that were taken into the Number for their <hi>good Works</hi> and <hi>Service</hi> in the Church of Chriſt, and that were recorded for their Works and Service to the Lord.</p>
+            <p>Now here is a diligent Practice and Exerciſe in the Power and Spirit of God, and to be diligent in every <hi>good Work</hi> and <hi>Service, To relieve the Afflicted, and to bring up Children in the fear of God; and to be Teachers of good things, and Inſtructors of the Younger, that the Name of God be not Blaſphemed.</hi>
+            </p>
+            <p>So here you may ſee the Apoſtle was of another Mind than thoſe perverſe corrupt Minds, full of <hi>Envy</hi> and <hi>Strife, Railing</hi> and <hi>evil Surmizing,</hi> and ſome that wilfully, ſcoffing<g ref="char:EOLhyphen"/>ly, maliciouſly and revilingly call the <hi>Womens Meetings</hi> an <hi>Idol</hi> and an <hi>Image;</hi> but ſuch Raging Waves of the Sea have but foamed out their own Shame, and manifeſted they are erred from the Spirit of Grace, which God poureth forth upon <hi>Daughters, Servants</hi> and <hi>Hand-maids,</hi> which have received as well as Sons, and are to improve their Talents and meaſure of the Gift of God, and <hi>not to grieve nor quench the holy Spirit,</hi> nor <hi>walk deſpightfully againſt the Spirit of Grace,</hi> as ſome do, whereby we are ſealed to the day of Redemp<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And concerning <hi>Marriages,</hi> it being God's joyning, and his Ordinance, we Women in the Spirit and Grace of God, being living Members of the Church of Chriſt, do ſee with the Spirit of God, our Service concerning Marriage, that both Young and Old that profeſs Gods Truth, may go together orderly, firſt having their Relations conſent; for many times we having ſeen, and do ſee more in the Young People and Widdows State and Condition, than ſome of the Men, becauſe we are more amongſt them; ſo in that we
+<pb n="5" facs="tcp:61391:3"/>dare not neglect our Gift in the Spirit of Wiſdom and Grace, but exerciſe and improve it to this glory and honour, and in that we are meet Helps in the <hi>Spirit of God,</hi> to the Men, our Brethren; knowing that <hi>Male and Female are one in Christ;</hi> for the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Fellowſhip</hi> of <hi>Sons</hi> and <hi>Daughters, Widdows</hi> and <hi>Servants,</hi> ſtands in the <hi>Spirit of God,</hi> and we in the ſame Spirit know our <hi>great Service</hi> to look after and <hi>viſit the Sick</hi> that want <hi>Nurſes</hi> to help them, and ſometimes aſſiſting the Men, our Brethren, to the placing out our <hi>poor Friends Children to Apprentices,</hi> and other good <hi>Services</hi> that the <hi>Spirit of God</hi> leadeth us to, and into the practice of the <hi>pure Religion,</hi> and that all ſuch as do profeſs the <hi>Grace of God,</hi> may live and walk <hi>godly, righteouſly</hi> and <hi>ſoberly in their Lives and Converſa<g ref="char:EOLhyphen"/>tion,</hi> all ſuch as profeſs the <hi>Word of God</hi> may be <hi>Doers</hi> of the <hi>Word of God;</hi> for all that <hi>fear God and work Righteouſneſs, are accepted with God.</hi> And ſo, the <hi>Aged Women in the Truth</hi> were and are to be Teachers of ſuch good things; but ſuch <hi>wanton Women</hi> or <hi>Widdows, that are Tale-carriers and buſie Bodies, that ſpeak things they ought not,</hi> and ſuch <hi>Men</hi> that are in <hi>Envy</hi> and <hi>Strife, and are puft up with high ſwelling Words of Vanity, and vain unruly Talkers, Deſpiſers of them that are good, having got into the form of Godlineſs, but not in the Power:</hi> Such were in the Apoſtles days, as well as now, reproved by the Spirit of God, and turned away from; and we cannot receive their Chaff and Husks for the <hi>Seed, Wheat,</hi> or the <hi>Bread of Life;</hi> neither their <hi>Earthly ſenſual Wiſdom</hi> for the <hi>Wiſdom of God;</hi> and therefore have ſeveral of ſuch unruly Spirits printed and written ſo many ſlanderous reproachful Books againſt us, and made diſturbance againſt our Meetings, under a falſe pretence, as though they would call us to our <hi>own, as it was in the beginning;</hi> which if they themſelves had kept to that that firſt convinced them, they would have ſhewed forth a <hi>quiet and meek Spirit,</hi> who under a pretence of <hi>calling People to their own,</hi> have drawn People from their
+<pb n="6" facs="tcp:61391:4"/>own; for we are come to our <hi>Light, Spirit, Grace</hi> and <hi>Word of Life,</hi> and <hi>Anointing within,</hi> which is our own, which at firſt convinced us, and which doth teach us to be <hi>Doers</hi> of the <hi>Word of God,</hi> and to <hi>live Righteouſly,</hi> and to practice the <hi>true Religion;</hi> and them that do not, the ſpirit of the Lord moveth us, and teacheth us to admoniſh and exhort them to <hi>forſake the Evil, and cleave to the Good;</hi> and them that oppoſe the Practice and Care, in the Spirit and Grace of <hi>God,</hi> of <hi>Men</hi> and <hi>Women</hi> in their <hi>Meetings,</hi> had they kept to the <hi>Light, Grace, Truth</hi> and <hi>Spirit of God,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nction within them,</hi> they would have been one with us in the ſame, and in the pra<g ref="char:EOLhyphen"/>ctice of the <hi>pure Religion,</hi> and in the <hi>Godly Care</hi> for <hi>God's Honour;</hi> but many of them are turned <hi>Mockers, Scoffers, Writers</hi> and <hi>Printers</hi> againſt us, and are become <hi>vain Talkers.</hi> But we leave them to the Lord, to deal with according to their Words and Works: And we right-well know our <hi>Services,</hi> which the Spirit of Grace hath led us to in the Church of Chriſt.</p>
+            <p>And as to our orderly proceeding toward <hi>Marriage,</hi> we ſay and affirm, the <hi>Man</hi> and <hi>Woman</hi> both ought to appear at the <hi>Monethly Meetings,</hi> and Meetings for ſuch Services, where we and the Men may hear what both have to ſay, that Men and Women may not be wronged of their Children, and that they are clear from all other Perſons, that the Meeting, and all others concerned, may have ſatisfaction, in that <hi>Life, Grace</hi> and <hi>Spirit</hi> of <hi>Chriſt,</hi> in which is our Unity, and may be <hi>faithful Witneſſes</hi> both to God and Man, in our own <hi>Gift of Grace,</hi> in which God hath, and doth own us: And all that <hi>write,</hi> and <hi>print,</hi> and <hi>ſpeak</hi> againſt our <hi>Practice</hi> (which the <hi>Spirit of Grace</hi> hath led us to in the <hi>Church of Chriſt</hi>) reach us not, neither are they of any credit with us; For we have <hi>put on the Breaſt-plate of Faith and Love, and for an Helmet, the Hope of Salvation.</hi> And ſo our deſires are, <hi>That whatever things are pure, vertuous, lovely, ſober, honeſt, and of good Report,</hi>
+               <pb n="7" facs="tcp:61391:4"/>and that every one may follow that which makes for <hi>Peace,</hi> and that they may ſtudy to be <hi>Quiet,</hi> and do the Lords Bu<g ref="char:EOLhyphen"/>ſineſs in his Spirit and Power, and their own in Truth and Righteouſneſs, and walk as Children of the Light, in the day of Chriſt, and in meekneſs inſtruct them that oppoſe them<g ref="char:EOLhyphen"/>ſelves, <hi>If God peradventure may give them Repentance to the ac<g ref="char:EOLhyphen"/>knowledgment of the Truth; Greet one another with a holy Kiſs of Charity; Peace be with you all that are in Christ Jeſus, Amen,</hi> Rom. 16. 1 Cor. 16.20. 2 Cor. 13.22. 1 Pet. 5.14.</p>
+            <p>Now this holy Kiſs of <hi>Charity</hi> is wanting, and not to be found, nor expected from them that do not walk in the Spi<g ref="char:EOLhyphen"/>rit of God. And the Apoſtle ſaith, <hi>I intreat thee, true Yoke-fellow, help theſe Women which laboured with me in the Goſpel, with</hi> Clement <hi>alſo, and with others my Fellow-Labourers, whoſe Names are written in the Book of Life, Phil.</hi> 4.3. <hi>There is one God and Father of all, which is above all, and through you all, and in you all by his Spirit.</hi> So all may ſee with his Spirit, the Lord is near unto all to teach them to know their Service; and if theſe do lack wiſdom, to ask it of God, who giveth liberally, and take counſel of him who is nigh unto you, and walk worthy of the Lords mercies, being faithful in every good work; for to do good &amp; communicate, is a Sacrifice well pleaſing to the Lord, and we who are made the Sons and Daughters, Ser<g ref="char:EOLhyphen"/>vants and Handmaids, by the Spirit of God, in the ſame Spirit we have Unity and Fellowſhip, though we be abſent in body one from another, yet we are preſent in the ſame Spirit, and by the ſpiritual Eye do ſee and behold, and rejoyce in our ſpiritual Order, and one anothers ſtedfaſtneſs in Chriſt Jeſus. And ſo we have a communion in the Holy Ghoſt, both Sons and Daughters; and if any thing the Men do ſee that is more proper for the Women to do, and to look into, they do let us know of it, as Siſters in the Truth; and if any thing we ſee that is more proper for the Men, than for us, then we let them know as our Brethren in the Truth; ſo in this we do
+<pb n="8" facs="tcp:61391:5"/>aſſiſt each other in the Spirit and Truth, and are meet helps in the heavenly ſpiritual Union and Communion, and Fel<g ref="char:EOLhyphen"/>lowſhip and Society, and do know the unity of the Spirit of Chriſt, which is the Bond of Peace, and in this heavenly Spi<g ref="char:EOLhyphen"/>rit that reaches through all, and over all, and is in you all, our dear Siſters every where, in Chriſt Jeſus, 'tis you we viſit, to whom we recommend this Epiſtle, <hi>Farewel.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>
+               <hi>WE have been a People that have ſought the Lord, and now we have found him, we are willing to obey him in his Power and holy Spirit, that he hath given us to enable us ſo to do; and though we are perſecuted in ſpirit, and other ways, by unruly Tongues that have not power with their hands; ſuch that are</hi> Sayers <hi>of the the Word of God, and</hi> Talkers <hi>of the Grace of God, and of the Righteouſneſs of Chriſt, but not</hi> Doers <hi>of the Word, nor walkers in the Righteouſneſs and Grace of God, their ungracious Languages and Words, that they have Spoken and Printed againſt us, ſhew the Trees and their Fruit, whom we deſire may come to the Light of Chriſt, that with it they may ſee themſelves, and repent; for we deſire the Salvation and Eternal Good of all.</hi>
+            </p>
+            <p>Signed by us, in the behalf of the reſt of our ſincere Minded Members of our Meeting,</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> from our Womens Meeting, gathered out of the City and Su<g ref="char:EOLhyphen"/>burbs, <date>the 1ſt. <hi>of the</hi> 4th <hi>Moneth,</hi> 1685.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Mary Foſter,</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Elſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Anne Travice,</hi>
+                     </item>
+                     <item>
+                        <hi>Ruth Crowch,</hi>
+                     </item>
+                     <item>
+                        <hi>Suſannah Dew,</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Plumſtead.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
